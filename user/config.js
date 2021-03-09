@@ -46,7 +46,7 @@ module.exports = {
 	staff_role: '817837502315364453', // ID of your Support Team role (REQUIRED)
 
 	tickets: {
-		category: '', // ID of your tickets category (REQUIRED)
+		category: '818588875579981864', // ID of your tickets category (REQUIRED)
 		send_img: false,
 		ping: 'here',
 		text: `Hello there, {{ tag }}!
